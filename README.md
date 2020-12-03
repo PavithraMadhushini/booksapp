@@ -5,4 +5,4 @@ React-based New York Times best-selling books list.
 # Installation
 Clone and cd into repository:
 
-$ git clone https://github.com/PavithraMadhushini/booksapp
+
