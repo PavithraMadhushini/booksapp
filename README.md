@@ -1,8 +1,10 @@
-React-based New York Times best-selling books list.
+# React-based New York Times best-selling books list.
 
 ![booksapp](https://user-images.githubusercontent.com/65077990/100974645-a7032380-3562-11eb-9cd8-f94e46e824b8.PNG)
+Books are allowed to be purchased by sellers such as Amazon.
 
-# Installation
+
+## Installation
 Clone and cd into repository:
 <pre>
 $ git clone https://github.com/PavithraMadhushini/booksapp
